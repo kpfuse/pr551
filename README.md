@@ -2,6 +2,7 @@
 
 ## Задание 3. ## 
 
+https://github.com/kpfuse/pr551/blob/main/pract03.pdf 
 
 куда сдавать: https://classroom.github.com/a/kmDsI2MK
 
